@@ -18,4 +18,4 @@ You can also download the dataset which is inside "dataset" file within a zip fo
 
 For my submission with XGBoost on Kaggle competition, you can visit https://www.kaggle.com/asilkanv/titanic-eda-ml.com/asilkanv/titanic-eda-ml and look at the last part of notebook.
 
-You can also contact me from my email : var-asilkan@hotmail.com
+You can also contact me from my email : var-asilkan@hotmail.com 
