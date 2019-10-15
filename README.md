@@ -16,6 +16,6 @@ I used 10 ML techniques which are :
     
 You can also download the dataset which is inside "dataset" file within a zip format.
 
-For my submission with XGBoost on Kaggle competition, you can visit kaggle.com/asilkanv/titanic-eda-ml.com and look at the last part of notebook.
+For my submission with XGBoost on Kaggle competition, you can visit kaggle.com/asilkanv/titanic-eda-ml and look at the last part of notebook.
 
 You can also contact me from my email : var-asilkan@hotmail.com 
